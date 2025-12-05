@@ -85,14 +85,16 @@ Delivered insights on 5 strategic questions:
 
 ## 05. Project Files
 ```
-├── dimensional_model/          # Star schema diagrams
+├── 01_project_report.pdf                           # Full business analysis with executive summary
+├── 02_operational_database_schema.png              # Source system ERD (MySQL)
+├── 03_dimensional_model_star_schema.png            # Implemented star schema design
+├── 04_data_dictionary.pdf                          # Complete attribute documentation and transformations
+├── 05_technical_environment_and_key_lessons.pdf    # Implementation challenges and resolutions
 ├── sql/
-│   ├── extraction_queries/     # Source data extraction SQL
-│   ├── schema_ddl/             # Data warehouse table definitions
-│   └── analysis_queries/       # Business intelligence queries
-├── ssis/                       # SSIS package files (.dtsx)
-├── data_dictionary/            # Complete attribute documentation
-└── report/                     # Full business analysis report
+│   ├── 01_source_extraction_scripts.sql            # MySQL extraction queries with data quality handling
+│   ├── 02_schema_ddl_scripts.sql                   # SQL Server data warehouse table definitions
+│   └── 03_analysis_queries.sql                     # Business intelligence queries for 5 strategic questions
+└── README.md
 ```
 
 ## 06 Key Learnings
