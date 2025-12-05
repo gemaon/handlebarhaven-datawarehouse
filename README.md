@@ -97,7 +97,7 @@ Delivered insights on 5 strategic questions:
 └── README.md
 ```
 
-## VI Key Learnings
+## VI. Key Learnings
 
 1. **Always validate row counts** - Unexpected results often indicate join issues or incorrect table selection
 2. **LEFT JOINs for hierarchical data** - Captures all records while flagging data quality issues
@@ -105,7 +105,7 @@ Delivered insights on 5 strategic questions:
 4. **Business logic belongs in ETL** - Calculate metrics during transformation, not at query time
 5. **Hemisphere matters** - Regional context essential for temporal analysis
 
-## VII Project Context
+## VII. Project Context
 
 Completed as part of BSAN7206 (Data Warehousing and Business Intelligence) at the University of Queensland, demonstrating capabilities in data integration, dimensional modelling, and business analytics applicable to DX consulting and commercial analytics roles.
 
