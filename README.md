@@ -90,10 +90,10 @@ Delivered insights on 5 strategic questions:
 ├── 03_dimensional_model_star_schema.png            # Implemented star schema design
 ├── 04_data_dictionary.pdf                          # Complete attribute documentation and transformations
 ├── 05_technical_environment_and_key_lessons.pdf    # Implementation challenges and resolutions
-├── sql/
-│   ├── 01_source_extraction_scripts.sql            # MySQL extraction queries with data quality handling
-│   ├── 02_schema_ddl_scripts.sql                   # SQL Server data warehouse table definitions
-│   └── 03_analysis_queries.sql                     # Business intelligence queries for 5 strategic questions
+├── sql/                                            # SQL scripts used for source database extraction, data data warehouse table definitions, and business analysis queries for 5 strategic questions
+│   ├── 01_source_extraction_scripts.sql
+│   ├── 02_schema_ddl_scripts.sql
+│   └── 03_analysis_queries.sql
 └── README.md
 ```
 
