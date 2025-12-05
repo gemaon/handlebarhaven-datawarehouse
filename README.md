@@ -19,6 +19,7 @@ Source operational database schema:
 - **Metrics**: Revenue, cost, gross profit, profit margin at transaction level
 
 My star schema design:
+
 ![Dimensional Model Star Schema](03_dimensional_model_star_schema.png)
 
 ### ETL Pipeline (SSIS)
