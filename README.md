@@ -3,7 +3,7 @@
 
 A complete data warehousing solution for a global bicycle manufacturer, demonstrating end-to-end data integration, dimensional modelling, and business intelligence capabilities.
 
-## Business Context
+## 01 Business Context
 
 Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Canada, Australia, UK, France, Germany) with 700+ retail stores and 18,000+ individual customers. Management required data-driven insights to support expansion decisions across products, customers, territories, and time periods.
 
@@ -31,7 +31,7 @@ Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Cana
 3. **Data type mismatches** in lookups - added explicit data conversion transformations
 4. **Hemisphere-aware seasonality** - separate Northern/Southern season attributes
 
-## Business Analysis
+## 02 Business Analysis
 
 Delivered insights on 5 strategic questions:
 
@@ -60,7 +60,7 @@ Delivered insights on 5 strategic questions:
 - **Insight**: Caps and hydration packs retain despite low absolute profits due to exceptional margins (50%+)
 - **Recommendation**: Replace bib-shorts with expanded shorts range; replace scooter stands with enhanced racks
 
-## Technical Skills Demonstrated
+## 03 Technical Skills Demonstrated
 
 - **Data Integration**: ETL pipeline design and implementation
 - **SQL**: Complex queries with denormalised JOINs, aggregations, temporal logic
@@ -69,14 +69,14 @@ Delivered insights on 5 strategic questions:
 - **Problem Solving**: Debugging data quality issues, resolving technical blockers
 - **Documentation**: Data dictionaries, transformation logic, business recommendations
 
-## Tools & Technologies
+## 04 Tools & Technologies
 
 - **ETL**: Microsoft SQL Server Integration Services (SSIS)
 - **Databases**: MySQL (source), SQL Server 2019 (data warehouse)
 - **Analysis**: SQL queries, Power BI visualisations
 - **Documentation**: Technical reports with executive summaries
 
-## Project Files
+## 05 Project Files
 ```
 ├── dimensional_model/          # Star schema diagrams
 ├── sql/
@@ -88,7 +88,7 @@ Delivered insights on 5 strategic questions:
 └── report/                     # Full business analysis report
 ```
 
-## Key Learnings
+## 06 Key Learnings
 
 1. **Always validate row counts** - Unexpected results often indicate join issues or incorrect table selection
 2. **LEFT JOINs for hierarchical data** - Captures all records while flagging data quality issues
@@ -96,7 +96,7 @@ Delivered insights on 5 strategic questions:
 4. **Business logic belongs in ETL** - Calculate metrics during transformation, not at query time
 5. **Hemisphere matters** - Regional context essential for temporal analysis
 
-## Project Context
+## 07 Project Context
 
 Completed as part of BSAN7206 (Data Warehousing and Business Intelligence) at the University of Queensland, demonstrating capabilities in data integration, dimensional modelling, and business analytics applicable to DX consulting and commercial analytics roles.
 
