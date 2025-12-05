@@ -10,7 +10,7 @@ Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Cana
 Source operational database schema:
 ![Operational Database Schema](02_operational_database_schema.png)
 
-## Technical Implementation
+## II. Technical Implementation
 
 ### Dimensional Model Design
 - **Architecture**: Star schema with 5 dimensions and 1 fact table
@@ -38,7 +38,7 @@ My star schema design:
 3. **Data type mismatches** in lookups - added explicit data conversion transformations
 4. **Hemisphere-aware seasonality** - separate Northern/Southern season attributes
 
-## II. Business Analysis
+## III. Business Analysis
 
 Delivered insights on 5 strategic questions:
 
@@ -67,7 +67,7 @@ Delivered insights on 5 strategic questions:
 - **Insight**: Caps and hydration packs retain despite low absolute profits due to exceptional margins (50%+)
 - **Recommendation**: Replace bib-shorts with expanded shorts range; replace scooter stands with enhanced racks
 
-## III. Technical Skills Demonstrated
+## IV. Technical Skills Demonstrated
 
 - **Data Integration**: ETL pipeline design and implementation
 - **SQL**: Complex queries with denormalised JOINs, aggregations, temporal logic
@@ -76,14 +76,14 @@ Delivered insights on 5 strategic questions:
 - **Problem Solving**: Debugging data quality issues, resolving technical blockers
 - **Documentation**: Data dictionaries, transformation logic, business recommendations
 
-## IV. Tools & Technologies
+## V. Tools & Technologies
 
 - **ETL**: Microsoft SQL Server Integration Services (SSIS)
 - **Databases**: MySQL (source), SQL Server 2019 (data warehouse)
 - **Analysis**: SQL queries, Power BI visualisations
 - **Documentation**: Technical reports with executive summaries
 
-## V. Project Files
+## VI. Project Files
 ```
 ├── 01_project_report.pdf                           # Full business analysis with executive summary
 ├── 02_operational_database_schema.png              # Source system ERD (MySQL)
@@ -97,7 +97,7 @@ Delivered insights on 5 strategic questions:
 └── README.md
 ```
 
-## VI. Project Context
+## VII. Project Context
 
 Completed as part of BSAN7206 (Data Warehousing and Business Intelligence) at the University of Queensland, demonstrating capabilities in data integration, dimensional modelling, and business analytics applicable to DX consulting and commercial analytics roles.
 
