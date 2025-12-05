@@ -17,7 +17,7 @@ Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Cana
 - **Approach**: Kimball methodology (4-step dimensional design)
 - **Metrics**: Revenue, cost, gross profit, profit margin at transaction level
 
-![Data Warehouse Model](dimensional_model/03_dimensional_model_star_schema.png)
+![Dimensional Model Star Schema](dimensional_model/03_dimensional_model_star_schema.png)
 
 ### ETL Pipeline (SSIS)
 - **Source**: MySQL operational database (31,000+ transactions, 2021-2024)
