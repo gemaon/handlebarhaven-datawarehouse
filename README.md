@@ -7,7 +7,7 @@ A complete data warehousing solution for a global bicycle manufacturer, demonstr
 
 Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Canada, Australia, UK, France, Germany) with 700+ retail stores and 18,000+ individual customers. Management required data-driven insights to support expansion decisions across products, customers, territories, and time periods.
 
-![Operational Database Schema](dimensional_model/02_operational_database_schema.png)
+![Operational Database Schema](02_operational_database_schema.png)
 
 ## Technical Implementation
 
@@ -17,7 +17,7 @@ Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Cana
 - **Approach**: Kimball methodology (4-step dimensional design)
 - **Metrics**: Revenue, cost, gross profit, profit margin at transaction level
 
-![Dimensional Model Star Schema](dimensional_model/03_dimensional_model_star_schema.png)
+![Dimensional Model Star Schema](03_dimensional_model_star_schema.png)
 
 ### ETL Pipeline (SSIS)
 - **Source**: MySQL operational database (31,000+ transactions, 2021-2024)
