@@ -109,8 +109,5 @@ Delivered insights on 5 strategic questions:
 
 Completed as part of BSAN7206 (Data Warehousing and Business Intelligence) at the University of Queensland, demonstrating capabilities in data integration, dimensional modelling, and business analytics applicable to DX consulting and commercial analytics roles.
 
----
-
 **Author**: Georgy Onishi  
 **Completion Date**: November 2025  
-**Word Count**: 3,774 (full report)
