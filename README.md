@@ -1,7 +1,7 @@
 # Handlebar Haven Data Warehouse
 **ETL Implementation and Business Intelligence Analysis**
 
-A complete data warehousing solution for a global bicycle manufacturer, demonstrating end-to-end data integration, dimensional modelling, and business intelligence capabilities.
+I developed a complete data warehousing solution for a global bicycle manufacturer, demonstrating end-to-end data integration, dimensional modelling, and business intelligence capabilities.
 
 ## I. Business Context
 
