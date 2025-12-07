@@ -31,6 +31,11 @@ My star schema design:
   - Temporal attribute derivation (seasons, quarters, day-of-week)
   - Metric calculations (gross profit, margins)
   - Data quality handling (LEFT JOINs with COALESCE for incomplete records)
+ 
+**Example SSIS pipeline design** (Fact Sales table ETL):
+
+![SSIS ETL Pipeline](ssis_etl_pipeline.png)
+
 
 ### Key Technical Challenges Resolved
 1. **Fact table duplication** (819K vs 121K expected rows) - resolved by switching from SCD Type 2 history table to current products table
