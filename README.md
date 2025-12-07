@@ -34,7 +34,7 @@ My star schema design:
  
 **Example SSIS pipeline design** (Fact Sales table ETL):
 
-![SSIS ETL Pipeline](ssis_etl_pipeline.png)
+![SSIS ETL Pipeline](etl_pipeline_design.png)
 
 
 ### Key Technical Challenges Resolved
