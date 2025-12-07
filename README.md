@@ -74,7 +74,7 @@ Delivered insights on 5 strategic questions:
 
 More detailed insights and visualisations are viewable in the full [Project Report](01_project_report.pdf).
 
-The SQL queries that I designed to generate these business analytics insights can be viewed [HERE](03_analysis_queries.sql).
+The SQL queries that I designed to generate these business analytics insights can be viewed [HERE](sql_scripts/03_analysis_queries.sql).
 
 ## IV. Technical Skills Demonstrated
 
