@@ -5,7 +5,9 @@ I developed a complete data warehousing solution for a global bicycle manufactur
 
 ## I. Business Context
 
-Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Canada, Australia, UK, France, Germany) with 700+ retail stores and 18,000+ individual customers. Management required data-driven insights to support expansion decisions across products, customers, territories, and time periods.
+Handlebar Haven is a bicycle manufacturer operating across 6 countries (US, Canada, Australia, UK, France, Germany) with 700+ retail stores and 18,000+ individual customers.
+
+The company has an operational database of interconnected systems capturing customer, product, transaction, supplier, and other information, with 31,000+ transactional records spanning 2021~2024, providing a rich source for analytical insights. Leveraging this data, management required analytical insights to support expansion decisions across products, customers, territories, and time periods.
 
 Source operational database schema:
 ![Operational Database Schema](02_operational_database_schema.png)
