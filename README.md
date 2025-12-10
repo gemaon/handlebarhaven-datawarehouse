@@ -59,7 +59,7 @@ Delivered insights on 5 strategic questions:
 - **Insight**: "Sweet spot" products combine high profit with healthy margins: Bottles/Cages ($14.7M, 37%), Road Scooters ($24.6M, 32%)
 - **Recommendation**: Prioritise inventory investment in high-profit, high-margin products
 
-<img src="figure9_sweet_spot_prods.png" width=75% height=75%>
+<img src="figure9_sweet_spot_prods.png" width=65% height=65%>
 
 ### 3. Most Profitable Territories
 - **Finding**: US territories dominate; Australia emerges as secondary high-value market
