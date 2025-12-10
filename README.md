@@ -22,7 +22,7 @@ Source operational database schema:
 
 My star schema design:
 
-![Dimensional Model Star Schema](03_dimensional_model_star_schema.png)
+<img src="03_dimensional_model_star_schema.png" width=75% height=75%>
 
 ### ETL Pipeline (SSIS)
 - **Source**: MySQL operational database (31,000+ transactions, 2021-2024)
