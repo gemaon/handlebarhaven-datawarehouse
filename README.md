@@ -57,21 +57,30 @@ Delivered insights on 5 strategic questions:
 * **Time:** Peak Mar–May; trough Jun–Sep → adjust promotional timing
 * **Underperformers:** Bib-shorts, locks, tights, scooter stands → replacement candidates
 
-*Detailed insights and visualisations viewable in the full [Project Report](01_project_report.pdf).*
+### *Detailed insights and visualisations viewable in the full [Project Report](01_project_report.pdf).*
 
 ## 4. Technical Skills Demonstrated
 
-* ETL design and implementation
-* SQL (joins, aggregations, temporal logic, DDL)
-* Dimensional modelling and conformed dimensions
-* Profitability metrics and BI analysis
-* Debugging and data quality remediation
-* Technical documentation
+**Data Engineering:**
+- ETL pipeline design and implementation (SSIS)
+- SQL (joins, aggregations, temporal logic, DDL, stored procedures)
+- Dimensional modeling (star schema, conformed dimensions)
+- Data quality remediation and debugging
+
+**Business Intelligence & Analysis:**
+- Dashboard design and development (Power BI)
+- DAX calculations (measures, calculated columns)
+- Data visualization best practices
+- Interactive analytics (drill-down, cross-filtering, slicers)
+- Profitability metrics definition
+- Strategic insight generation
+
 
 ## 5. Tools & Technologies
 
 - **ETL**: Microsoft SQL Server Integration Services (SSIS)
 - **Databases**: MySQL (source), SQL Server (data warehouse)
+- **Business Intelligence**: Power BI (dashboards, DAX, data modeling), Power Query
 - **Analysis**: SQL queries, Power BI visualisations
 - **Documentation**: Technical reports with executive summaries
 
