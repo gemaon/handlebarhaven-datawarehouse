@@ -86,7 +86,7 @@ Delivered insights on 5 strategic questions:
 
 ## 6. Project Context
 
-Completed as part of data warehousing coursework at UQ, designed to reflect real-world ETL and BI practices.
+Completed as part of data warehousing coursework at the University of Queensland, designed to reflect real-world ETL and BI practices.
 
 **Author**: Georgy Onishi  
 **Completion Date**: November 2025  
